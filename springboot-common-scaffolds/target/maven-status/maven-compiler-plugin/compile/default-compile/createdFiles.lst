@@ -1,0 +1,17 @@
+com\wto\scaffolds\config\LocalDateTimeConfiguration.class
+com\wto\scaffolds\mapper\SysMenuMapper.class
+com\wto\scaffolds\config\ShiroConfig.class
+com\wto\scaffolds\config\SwaggerConfig.class
+com\wto\scaffolds\util\ResultUtil.class
+com\wto\scaffolds\config\DataSourceConfig.class
+com\wto\scaffolds\util\ShiroUtils.class
+com\wto\scaffolds\handler\FreshException.class
+com\wto\scaffolds\mapper\SysUserMapper.class
+com\wto\scaffolds\model\entity\SysMenuEntity.class
+com\wto\scaffolds\model\entity\SysUserEntity.class
+com\wto\scaffolds\handler\BaseResult.class
+com\wto\scaffolds\controller\ShiroController.class
+com\wto\scaffolds\handler\UserRealm.class
+com\wto\scaffolds\config\WebMvcConfig.class
+com\wto\scaffolds\MyApplication.class
+com\wto\scaffolds\model\enums\FreshResultEnum.class

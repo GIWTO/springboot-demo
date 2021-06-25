@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.shiro",
+      "type": "com.wto.scaffolds.config.IgnoreAuthUrlProperties",
+      "sourceType": "com.wto.scaffolds.config.IgnoreAuthUrlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.shiro.ignore-auth-url",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.wto.scaffolds.config.IgnoreAuthUrlProperties"
+    }
+  ],
+  "hints": []
+}
